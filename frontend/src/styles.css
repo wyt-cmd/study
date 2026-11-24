@@ -1,0 +1,18 @@
+html, body, #app {
+  margin: 0;
+  height: 100%;
+  background: #f4f6f8;
+  color: #1f2a37;
+  font-family: "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+.page {
+  padding: 16px;
+}
+
+.toolbar {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}

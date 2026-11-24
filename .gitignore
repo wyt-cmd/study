@@ -1,0 +1,10 @@
+**/target/
+**/node_modules/
+**/dist/
+**/.idea/
+**/*.iml
+**/application-local.yml
+**/.env
+**/_docx_extract/
+*.log
+.DS_Store
